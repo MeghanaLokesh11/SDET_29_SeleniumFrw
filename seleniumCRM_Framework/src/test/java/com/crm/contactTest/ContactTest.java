@@ -12,6 +12,7 @@ public class ContactTest {
 	@Test(groups = "regressionTest")
 	public void modifyContactTest() {
 		System.out.println("execute modifyContactTest");
+		System.out.println("contact is updated");
 	}
 
 }
